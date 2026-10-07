@@ -7,5 +7,5 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/alex-joni/nJoy-cloud-HomeAssistant/issues",
   "requirements": [],
-  "version": "0.0.7"
+  "version": "1.0.1"
 }
